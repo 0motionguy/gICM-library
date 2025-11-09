@@ -1,0 +1,25 @@
+{
+  "name": "@gicm/library",
+  "version": "1.0.0",
+  "description": "Official content library for gICM Marketplace - 388 curated agents, skills, commands, and MCP servers",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gicm/gICM-library.git"
+  },
+  "keywords": [
+    "gicm",
+    "ai",
+    "agents",
+    "web3",
+    "solana",
+    "ethereum",
+    "mcp",
+    "claude-code"
+  ],
+  "author": "gICM Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gicm/gICM-library/issues"
+  },
+  "homepage": "https://gicm.ai"
+}
